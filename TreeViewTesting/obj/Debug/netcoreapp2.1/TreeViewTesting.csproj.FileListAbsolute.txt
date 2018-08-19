@@ -1,0 +1,17 @@
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\TreeViewTesting.deps.json
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\TreeViewTesting.runtimeconfig.json
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\TreeViewTesting.runtimeconfig.dev.json
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\TreeViewTesting.dll
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.csprojAssemblyReference.cache
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.csproj.CoreCompileInputs.cache
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.AssemblyInfoInputs.cache
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.AssemblyInfo.cs
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\TreeViewTesting.pdb
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.dll
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.pdb
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeView.dll
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeView.pdb
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.csproj.CopyComplete
